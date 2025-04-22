@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanpablopinillaguzman&label=Profile%20views&color=0e75b6&style=flat" alt="juanpablopinillaguzman" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Java**
+- 🌱 I’m currently learning **Csharp and .Net**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JuanPabloPinillaGuzman/PortfolioJuanPabloPinillaGuzman.git](https://github.com/JuanPabloPinillaGuzman/PortfolioJuanPabloPinillaGuzman.git)
 
