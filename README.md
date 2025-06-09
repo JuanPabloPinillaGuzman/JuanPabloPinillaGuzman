@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Csharp and .Net**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuanPabloPinillaGuzman/PortafolioJuanPinilla.git](https://github.com/JuanPabloPinillaGuzman/PortafolioJuanPinilla.git)
+- 👨‍💻 All of my projects are available at [https://github.com/JuanPabloPinillaGuzman?tab=repositories&q=&type=&language=&sort=](https://github.com/JuanPabloPinillaGuzman?tab=repositories&q=&type=&language=&sort=)
+- 👨‍💻 My portfolio [https://github.com/JuanPabloPinillaGuzman/PortafolioJuanPinilla](https://github.com/JuanPabloPinillaGuzman/PortafolioJuanPinilla)
 
 - 📫 How to reach me **juanpablopiinilla@gmail.com**
 
